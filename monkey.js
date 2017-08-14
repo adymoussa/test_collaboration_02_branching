@@ -1,1 +1,1 @@
-console.log ("Monkey");
+console.log ("Monkey - Deluxe Version");
