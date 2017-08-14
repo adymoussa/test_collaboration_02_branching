@@ -1,1 +1,1 @@
-console.log ("Monkey");
+console.log ("Monkey - Free To Play Version");
